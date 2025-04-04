@@ -12,6 +12,7 @@
     "express": "~4.16.1",
     "mariadb": "^3.4.1",
     "morgan": "~1.9.1",
-    "sequelize": "^6.37.7"
+    "sequelize": "^6.37.7",
+    "sequelize-auto": "^0.8.8"
   }
 }
